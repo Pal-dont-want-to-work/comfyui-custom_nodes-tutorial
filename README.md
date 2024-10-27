@@ -115,4 +115,6 @@ QR码生成器节点，支持自定义参数和背景图像。
 4. 运行工作流程，输出端将生成QR码图像
 5. 使用浏览器或手机扫描生成的QR码进行测试
 
+[ComfyUI自定义节点开发文档](https://h0zkh0f8v2a.feishu.cn/wiki/KUnlwgJxSidQi7k0Iq3cUvGpnLS?from=from_copylink)
+
 ## 如果这个教程对你有帮助的话，请给个star吧~⭐⭐⭐
