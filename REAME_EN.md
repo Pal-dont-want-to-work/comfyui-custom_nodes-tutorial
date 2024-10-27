@@ -115,5 +115,9 @@ QR code generator node, supports custom parameters and background images.
 4. Run the workflow, and the output will generate a QR code image
 5. Use a browser or mobile phone to scan the generated QR code for testing
 
+## PS
+you can reference the following files when developing custom nodes
+ComfyUI_windows_portable\ComfyUI\extra_model_paths.yaml.example和ComfyUI_windows_portable\ComfyUI\nodes.py
+
 [ComfyUI custom node development documentation](https://h0zkh0f8v2a.feishu.cn/wiki/KUnlwgJxSidQi7k0Iq3cUvGpnLS?from=from_copylink)
 ## If this tutorial has been helpful to you, please give it a star! ⭐⭐⭐
