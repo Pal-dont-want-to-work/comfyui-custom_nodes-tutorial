@@ -39,7 +39,7 @@ By studying this tutorial, you will be able to:
 2. Clone this project in the `custom_nodes` directory of ComfyUI:
    ```
    cd custom_nodes
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Pal-dont-want-to-work/comfyui-custom_nodes-tutorial.git
    ```
 
 3. Install dependencies (if any):

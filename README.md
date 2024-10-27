@@ -41,7 +41,7 @@
 2. 在ComfyUI的`custom_nodes`目录中克隆本项目：
    ```
    cd custom_nodes
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Pal-dont-want-to-work/comfyui-custom_nodes-tutorial.git
    ```
 
 3. 安装依赖（如果有）：
