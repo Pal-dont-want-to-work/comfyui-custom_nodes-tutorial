@@ -32,9 +32,9 @@
 
 ## 安装
 
-1. 下载并安装最新版本的ComfyUI：
+1. 下载并安装最新版本的[ComfyUI](https://github.com/comfyanonymous/ComfyUI.git):
+  ![1](./public/0.png)
    ```
-   git clone https://github.com/comfyanonymous/ComfyUI.git
    cd ComfyUI
    ```
 
@@ -48,6 +48,7 @@
    ```
    pip install -r requirements.txt
    ```
+   comfyui-QR插件开发参考[amaqr项目](https://github.com/x-hw/amazing-qr)的代码，comfyui的环境兼容了amaqr项目所需的环境，因此无需安装
 
 4. 运行ComfyUI：
    - Windows: 双击运行`run_nvidia_gpu.bat`

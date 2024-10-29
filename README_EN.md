@@ -31,21 +31,23 @@ By studying this tutorial, you will be able to:
 ## Installation
 
 1. Download and install the latest version of ComfyUI:
-   ```
+   ![1](./public/0.png)
+   ```bash
    git clone https://github.com/comfyanonymous/ComfyUI.git
    cd ComfyUI
    ```
 
 2. Clone this project in the `custom_nodes` directory of ComfyUI:
-   ```
+   ```bash
    cd custom_nodes
    git clone https://github.com/Pal-dont-want-to-work/comfyui-custom_nodes-tutorial.git
    ```
 
 3. Install dependencies (if any):
-   ```
+   ```bash
    pip install -r requirements.txt
    ```
+   The development of the comfyui-QR plugin references the code from the [amaqr project](https://github.com/x-hw/amazing-qr), and the ComfyUI environment is compatible with the requirements of the amaqr project, so no additional installations are needed.
 
 4. Run ComfyUI:
    - Windows: Double-click `run_nvidia_gpu.bat`
@@ -116,8 +118,9 @@ QR code generator node, supports custom parameters and background images.
 5. Use a browser or mobile phone to scan the generated QR code for testing
 
 ## PS
-you can reference the following files when developing custom nodes
-ComfyUI_windows_portable\ComfyUI\extra_model_paths.yaml.example和ComfyUI_windows_portable\ComfyUI\nodes.py
+You can reference the following files when developing custom nodes:
+ComfyUI_windows_portable\ComfyUI\extra_model_paths.yaml.example and ComfyUI_windows_portable\ComfyUI\nodes.py
 
 [ComfyUI custom node development documentation](https://h0zkh0f8v2a.feishu.cn/wiki/KUnlwgJxSidQi7k0Iq3cUvGpnLS?from=from_copylink)
-## If this tutorial has been helpful to you, please give it a star! ⭐⭐⭐
+
+## If this tutorial has been helpful to you, please give it a star! ⭐⭐⭐ 
